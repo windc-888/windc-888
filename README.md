@@ -1,16 +1,30 @@
-### Hi there 👋
+### Welcome to my GitHub👋
+Please feel free to have look at my repositories for some highlighted projects I have done over the years. 
 
-<!--
-**windc-888/windc-888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Note* this GitHub profile is a work in progress and may not have all the projects uploaded just yet, but they are coming very soon!
 
-Here are some ideas to get you started:
+----- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **I’m currently working on ...**
+   - Uploading my projects to GitHub
+   - Independent data analysis projects
+##
+
+🌱 **I’m currently learning ...**
+   - Basic computer science with the Harvard CS50 Introduction to Computer Science course
+   - More advanced machine learning models 
+##
+
+👯 **I’m looking to collaborate on ...**
+   - Exploratory data analysis/predictive modelling work 
+##
+
+💬 **Ask me about ...**
+   -  Anything to do with Alzheimer's disease or cancer biology!
+##
+     
+📫 **How to reach me: ...**
+   - Email: windhy.cahyadi@gmail.com
+   - [LinkedIn](https://www.linkedin.com/in/windhy-cahyadi)
+
+
