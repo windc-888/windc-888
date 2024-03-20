@@ -1,18 +1,15 @@
 ### Welcome to my GitHub👋
 Please feel free to have look at my repositories for some highlighted projects I have done over the years. 
 
-*Note* this GitHub profile is a work in progress and may not have all the projects uploaded just yet, but they are coming very soon!
-
 ----- 
 
 🔭 **I’m currently working on ...**
-   - Uploading my projects to GitHub
    - Independent data analysis projects
 ##
 
 🌱 **I’m currently learning ...**
    - Basic computer science with the Harvard CS50 Introduction to Computer Science course
-   - More advanced machine learning models 
+   - Data analytic tools (PowerBI, Tableau, SQL, etc.) 
 ##
 
 👯 **I’m looking to collaborate on ...**
