@@ -18,10 +18,6 @@ Please feel free to have look at my repositories for some highlighted projects I
 👯 **I’m looking to collaborate on ...**
    - Exploratory data analysis/predictive modelling work 
 ##
-
-💬 **Ask me about ...**
-   -  Anything to do with Alzheimer's disease or cancer biology!
-##
      
 📫 **How to reach me: ...**
    - Email: windhy.cahyadi@gmail.com
