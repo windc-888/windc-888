@@ -8,7 +8,8 @@ Please feel free to have look at my repositories for some highlighted projects I
 ##
 
 🌱 **I’m currently learning ...**
-   - Basic computer science with the Harvard CS50 Introduction to Computer Science course
+   - Harvard CS50 Introduction to Computer Science course
+   - Harvard CS50 Introduction to Artificial Intelligence with Python
    - Data analytic tools (PowerBI, Tableau, SQL, etc.) 
 ##
 
