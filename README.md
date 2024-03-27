@@ -4,7 +4,7 @@ Please feel free to have look at my repositories for some highlighted projects I
 ----- 
 
 🔭 **I’m currently working on ...**
-   - Independent data analysis projects
+   - Independent data analysis/machine learning projects
 ##
 
 🌱 **I’m currently learning ...**
